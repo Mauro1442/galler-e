@@ -1,0 +1,16 @@
+.cont {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nbar {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+}
+.fixedbutton {
+  position: fixed;
+  bottom: 560px;
+  right: 1000px; 
+}
